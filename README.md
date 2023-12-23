@@ -2,7 +2,7 @@
 Automated smart home using keypad inputs for passwords and control commands through UART.
 
 User 1's Password = 21
-User 2's Password = 222
+User 2's Password = 22
 Admin's Password = 123
 
 There are 5 LEDs, 1 Dimmer, 1 Door (Servo Motor), 1 ADC Temperature Sensor, an Air Conditioner (DC Motor), LCD, Keypad, and UART Terminal.
