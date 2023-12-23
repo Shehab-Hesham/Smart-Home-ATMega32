@@ -1,8 +1,9 @@
 # Smart-Home-ATMega32
 Automated smart home using keypad inputs for passwords and control commands through UART.
 
-User's Password = 123
-Admin's Password = 124
+User 1's Password = 21
+User 1's Password = 222
+Admin's Password = 123
 
 There are 5 LEDs, 1 Dimmer, 1 Door (Servo Motor), 1 ADC Temperature Sensor, an Air Conditioner (DC Motor), LCD, Keypad, and UART Terminal.
 One can enter the system in one of two modes: Admin or User, depending on the entered password on the keypad.
