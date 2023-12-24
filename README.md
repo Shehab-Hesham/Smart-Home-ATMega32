@@ -10,6 +10,8 @@ One can enter the system in one of two modes: Admin or User, depending on the en
 
 Once logged in, one can control the above mentioned devices as follows using UART inputs:
 
+AC works automatically when logged in if the temperature reading is above 28 °C
+
 Door: Enter 'H' to open, enter 'I' to close. (Admin mode only)
 
 LED 1: Enter '1' to turn on, enter 'C' to turn off.
